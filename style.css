@@ -1,0 +1,19 @@
+*{
+	font-family: 'Ubuntu', sans-serif;
+}
+body{
+	height: 500vh;	
+}
+
+#section-bg{
+	height: 100vh;
+	background-image: url(images/section-one-img.jpg);
+	background-size: cover;
+}
+h1{
+	font-size:5rem;
+}
+
+.about-me{
+	font-size: 3rem;
+}
